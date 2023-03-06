@@ -9,6 +9,8 @@
             Manufacturer = manufacturer;
             DosageInstructions = dosageInstructions;
             Warnings = warnings;
+
+            PostedAt = DateTime.Now;
         }
         public int Id { get; set; }
         public string Name { get; set; }
@@ -16,5 +18,6 @@
         public string Manufacturer { get; set; }
         public string DosageInstructions { get; set; }
         public string Warnings { get; set; }
+        public DateTime PostedAt { get; set; }
     }
 }
