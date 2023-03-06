@@ -7,7 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.14">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IRemedios.Application\IRemedios.Application.csproj" />
+    <ProjectReference Include="..\IRemedios.Core\IRemedios.Core.csproj" />
+    <ProjectReference Include="..\IRemedios.Infrastructure\IRemedios.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

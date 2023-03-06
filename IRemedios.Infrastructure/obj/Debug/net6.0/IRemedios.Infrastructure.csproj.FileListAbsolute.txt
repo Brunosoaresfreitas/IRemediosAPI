@@ -1,0 +1,17 @@
+C:\Praticando\IRemedios\IRemedios.Infrastructure\bin\Debug\net6.0\IRemedios.Infrastructure.deps.json
+C:\Praticando\IRemedios\IRemedios.Infrastructure\bin\Debug\net6.0\IRemedios.Infrastructure.runtimeconfig.json
+C:\Praticando\IRemedios\IRemedios.Infrastructure\bin\Debug\net6.0\IRemedios.Infrastructure.dll
+C:\Praticando\IRemedios\IRemedios.Infrastructure\bin\Debug\net6.0\IRemedios.Infrastructure.pdb
+C:\Praticando\IRemedios\IRemedios.Infrastructure\bin\Debug\net6.0\IRemedios.Core.dll
+C:\Praticando\IRemedios\IRemedios.Infrastructure\bin\Debug\net6.0\IRemedios.Core.pdb
+C:\Praticando\IRemedios\IRemedios.Infrastructure\obj\Debug\net6.0\IRemedios.Infrastructure.csproj.AssemblyReference.cache
+C:\Praticando\IRemedios\IRemedios.Infrastructure\obj\Debug\net6.0\IRemedios.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Praticando\IRemedios\IRemedios.Infrastructure\obj\Debug\net6.0\IRemedios.Infrastructure.AssemblyInfoInputs.cache
+C:\Praticando\IRemedios\IRemedios.Infrastructure\obj\Debug\net6.0\IRemedios.Infrastructure.AssemblyInfo.cs
+C:\Praticando\IRemedios\IRemedios.Infrastructure\obj\Debug\net6.0\IRemedios.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Praticando\IRemedios\IRemedios.Infrastructure\obj\Debug\net6.0\IRemedios.Infrastructure.csproj.CopyComplete
+C:\Praticando\IRemedios\IRemedios.Infrastructure\obj\Debug\net6.0\IRemedios.Infrastructure.dll
+C:\Praticando\IRemedios\IRemedios.Infrastructure\obj\Debug\net6.0\refint\IRemedios.Infrastructure.dll
+C:\Praticando\IRemedios\IRemedios.Infrastructure\obj\Debug\net6.0\IRemedios.Infrastructure.pdb
+C:\Praticando\IRemedios\IRemedios.Infrastructure\obj\Debug\net6.0\IRemedios.Infrastructure.genruntimeconfig.cache
+C:\Praticando\IRemedios\IRemedios.Infrastructure\obj\Debug\net6.0\ref\IRemedios.Infrastructure.dll

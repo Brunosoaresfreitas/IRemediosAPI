@@ -1,0 +1,12 @@
+C:\Praticando\IRemedios\IRemedios.Core\bin\Debug\net6.0\IRemedios.Core.deps.json
+C:\Praticando\IRemedios\IRemedios.Core\bin\Debug\net6.0\IRemedios.Core.dll
+C:\Praticando\IRemedios\IRemedios.Core\bin\Debug\net6.0\IRemedios.Core.pdb
+C:\Praticando\IRemedios\IRemedios.Core\obj\Debug\net6.0\IRemedios.Core.csproj.AssemblyReference.cache
+C:\Praticando\IRemedios\IRemedios.Core\obj\Debug\net6.0\IRemedios.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Praticando\IRemedios\IRemedios.Core\obj\Debug\net6.0\IRemedios.Core.AssemblyInfoInputs.cache
+C:\Praticando\IRemedios\IRemedios.Core\obj\Debug\net6.0\IRemedios.Core.AssemblyInfo.cs
+C:\Praticando\IRemedios\IRemedios.Core\obj\Debug\net6.0\IRemedios.Core.csproj.CoreCompileInputs.cache
+C:\Praticando\IRemedios\IRemedios.Core\obj\Debug\net6.0\IRemedios.Core.dll
+C:\Praticando\IRemedios\IRemedios.Core\obj\Debug\net6.0\refint\IRemedios.Core.dll
+C:\Praticando\IRemedios\IRemedios.Core\obj\Debug\net6.0\IRemedios.Core.pdb
+C:\Praticando\IRemedios\IRemedios.Core\obj\Debug\net6.0\ref\IRemedios.Core.dll
